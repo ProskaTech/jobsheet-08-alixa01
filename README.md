@@ -2,7 +2,9 @@ nama : alixa arivya tofer
 nim : 21343040
 
 Latihan 1 menampilkan cara mengakses array gambar
+
 Latihan 2 menampilkan panjang array sesuai input gambar
+
 Latihan 3 menampilkan cara mengakses variabel sesuai indeks yang telah di input, menggunakan Array Multidimensi.
 Array multidimensi merupakan array yang terdiri dari beberapa subskrip array. Array dua dimensi adalah array yang mempunyai dua subskrip array. Array tiga dimensi adalah array yang mempunyai tiga subskrip array dan seterusnya
 Tugas 1 menampilkan array nama hari dalam seminggu
